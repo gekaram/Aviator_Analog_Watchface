@@ -1,0 +1,8 @@
+<properties>
+    <property id="appVersion" type="string">1.0.7</property>
+    <property id="SecondHandColor" type="number">16777215</property>
+    <property id="SecHandEnable" type="boolean">true</property>
+    <property id="BatteryWarningLevel" type="number">20</property>    
+    <property id="MoveBarOn" type="boolean">true</property>
+    <property id="ConnectionWarningOn" type="boolean">true</property>
+</properties>

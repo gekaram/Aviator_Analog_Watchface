@@ -1,0 +1,15 @@
+<strings>
+    <string id="AppName">Aviator Classic</string>
+    <string id="InternalVersion">1.0.7</string>
+
+    <string id="AppVersionTitle">Application Version</string>
+    <string id="SecondHandColorTitle">Second Hand Color</string>
+    <string id="SecHandEnableTitle">Second Hand On</string>
+    <string id="SecondHandColorPrompt">Select Second Hand color</string>
+    <string id="White">White</string>
+    <string id="Red">Red</string>
+    <string id="MoveBarOn">Move Bar On</string>
+    <string id="ConnectionWarningOn">Phone Connection Warning</string>
+    <string id="BatteryWarningLevel">Battery Warning Level in %</string>
+    
+</strings>
