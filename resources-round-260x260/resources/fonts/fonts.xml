@@ -1,0 +1,35 @@
+<fonts>
+
+
+	
+     <font id="dial_marks_font_tiles" filename="dial_marks_tiles.fnt" antialias="true"/>
+	 <font id="dial_numbers_font_tiles" filename="dial_numbers_tiles.fnt" antialias="true"/>
+    <font id="acumin_font" filename="acumin.fnt" antialias="true"/>
+
+    
+	<font id="battery" filename="battery.fnt" antialias="true"/>
+    
+	<font id="font_min_0_9" filename="minute-0-9.fnt" antialias="true"/>
+	<font id="font_min_10_19" filename="minute-10-19.fnt" antialias="true"/>
+	<font id="font_min_20_29" filename="minute-20-29.fnt" antialias="true"/>
+	<font id="font_min_30_39" filename="minute-30-39.fnt" antialias="true"/>
+	<font id="font_min_40_49" filename="minute-40-49.fnt" antialias="true"/>
+	<font id="font_min_50_59" filename="minute-50-59.fnt" antialias="true"/>
+
+	<font id="font_hour_0_4" filename="hour-0-4.fnt" antialias="true"/>
+    <font id="font_hour_5_9" filename="hour-5-9.fnt" antialias="true"/>
+    <font id="font_hour_10_14" filename="hour-10-14.fnt" antialias="true"/>
+	<font id="font_hour_15_19" filename="hour-15-19.fnt" antialias="true"/>
+	<font id="font_hour_20_24" filename="hour-20-24.fnt" antialias="true"/>
+	<font id="font_hour_25_29" filename="hour-25-29.fnt" antialias="true"/>
+	<font id="font_hour_30_34" filename="hour-30-34.fnt" antialias="true"/>
+    <font id="font_hour_35_39" filename="hour-35-39.fnt" antialias="true"/>
+    <font id="font_hour_40_44" filename="hour-40-44.fnt" antialias="true"/>
+	<font id="font_hour_45_49" filename="hour-45-49.fnt" antialias="true"/>
+	<font id="font_hour_50_54" filename="hour-50-54.fnt" antialias="true"/>
+	<font id="font_hour_55_59" filename="hour-55-59.fnt" antialias="true"/>		
+    
+	<font id="move_tile_makers_font" filename="move_tile_makers.fnt" antialias="true"/>		
+
+
+</fonts>
