@@ -1,0 +1,30 @@
+<resources>
+
+    
+	
+	<jsonData id="dial_numbers_tiles_data" filename="dial_numbers_tiles.json"/>
+    <jsonData id="dial_marks_tiles_data" filename="dial_marks_tiles.json"/>
+		
+   <jsonData id="font_min_0_9_data" filename="minute-0-9.json"/>  
+    <jsonData id="font_min_10_19_data" filename="minute-10-19.json"/>
+    <jsonData id="font_min_20_29_data" filename="minute-20-29.json"/>
+    <jsonData id="font_min_30_39_data" filename="minute-30-39.json"/>
+	<jsonData id="font_min_40_49_data" filename="minute-40-49.json"/>
+    <jsonData id="font_min_50_59_data" filename="minute-50-59.json"/>
+	
+	<jsonData id="font_hour_0_4_data" filename="hour-0-4.json"/>
+    <jsonData id="font_hour_5_9_data" filename="hour-5-9.json"/>
+    <jsonData id="font_hour_10_14_data" filename="hour-10-14.json"/>
+	<jsonData id="font_hour_15_19_data" filename="hour-15-19.json"/>
+	<jsonData id="font_hour_20_24_data" filename="hour-20-24.json"/>
+	<jsonData id="font_hour_25_29_data" filename="hour-25-29.json"/>
+	<jsonData id="font_hour_30_34_data" filename="hour-30-34.json"/>
+    <jsonData id="font_hour_35_39_data" filename="hour-35-39.json"/>
+    <jsonData id="font_hour_40_44_data" filename="hour-40-44.json"/>
+	<jsonData id="font_hour_45_49_data" filename="hour-45-49.json"/>
+	<jsonData id="font_hour_50_54_data" filename="hour-50-54.json"/>
+	<jsonData id="font_hour_55_59_data" filename="hour-55-59.json"/>	
+	
+    <jsonData id="move_tile_makers_data" filename="move_tile_makers.json"/>	
+	
+</resources>
