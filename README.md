@@ -4,7 +4,7 @@ An Aviator watchface for Garmin's wearable lineup.
 
 ![](screenshots/COVER.jpg)
 
-![](screenshots/SCREENSHOOT_01.jpg)
+![](screenshots/SCREENSHOOT_00.jpg)
 
 ![](screenshots/SCREENSHOOT_01.jpg)
 
